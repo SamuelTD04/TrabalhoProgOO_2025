@@ -1,0 +1,14 @@
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\bin\Debug\net8.0\projeto_progoo_01.exe
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\bin\Debug\net8.0\projeto_progoo_01.deps.json
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\bin\Debug\net8.0\projeto_progoo_01.runtimeconfig.json
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\bin\Debug\net8.0\projeto_progoo_01.dll
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\bin\Debug\net8.0\projeto_progoo_01.pdb
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\obj\Debug\net8.0\projeto_progoo_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\obj\Debug\net8.0\projeto_progoo_01.AssemblyInfoInputs.cache
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\obj\Debug\net8.0\projeto_progoo_01.AssemblyInfo.cs
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\obj\Debug\net8.0\projeto_progoo_01.csproj.CoreCompileInputs.cache
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\obj\Debug\net8.0\projeto_progoo_01.dll
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\obj\Debug\net8.0\refint\projeto_progoo_01.dll
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\obj\Debug\net8.0\projeto_progoo_01.pdb
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\obj\Debug\net8.0\projeto_progoo_01.genruntimeconfig.cache
+C:\Arquivos Pessoais\Programação e CAD\Programação orientada a objetos\TrabalhoProgOO_2025\projeto_progoo_01\projeto_progoo_01\obj\Debug\net8.0\ref\projeto_progoo_01.dll
